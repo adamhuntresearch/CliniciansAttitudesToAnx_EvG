@@ -1,6 +1,6 @@
 [ReadMe_Hunt_Carp.txt](https://github.com/user-attachments/files/24436537/ReadMe_Hunt_Carp.txt)
 This is the ReadMe the data and R scripts for Clinician’s attitudes to evolutionary and genetic explanations for anxiety: a cluster-randomised study of stigmatisation
-Hunt et al. 2025
+Hunt et al. 2026
 
 Analytical plan pre-registered at https://osf.io/7x98y
 
